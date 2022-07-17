@@ -1,8 +1,8 @@
-site_name: ServerBuilder
+site_name: Sides Setup
 theme:
   name: material
-  icon:
-    logo: material/library-shelves
+  logo: assets/image.png
+  favicon: assets/image.png
   palette: 
 
     # Palette toggle for light mode
