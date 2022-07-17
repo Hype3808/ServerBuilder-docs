@@ -26,6 +26,8 @@ markdown_extensions:
   - pymdownx.superfences
 nav:
   - Home: index.md
+  - Getting Started:
+    - Setup: getting-started/setup.md
   - Commands:
     - Setup: commands/setup.md
     - Ads: commands/ads.md
@@ -35,5 +37,3 @@ nav:
     - Autorole: commands/autorole.md
     - Suggest: commands/suggest.md
     - Moderation: commands/mod.md
-  - Getting Started:
-    - Setup: getting-started/setup.md
